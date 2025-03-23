@@ -131,7 +131,9 @@ kubectl version --client
 9) initialize control plane
 
 ```
-sudo kubeadm init --pod-network-cidr=192.168.0.0/16 --apiserver-advertise-address=172.31.89.68 --node-name master
+privateIp=(hostname -I | awk '{print $1}')
+
+sudo kubeadm init --pod-network-cidr=192.168.0.0/16 --apiserver-advertise-address=$privateIp --node-name master
 ```
 >Note: Copy the copy to the notepad that was generated after the init command completion, we will use that later.
 
