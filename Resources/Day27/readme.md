@@ -165,7 +165,7 @@ sudo kubeadm join 172.31.71.210:6443 --token xxxxx --discovery-token-ca-cert-has
 - If you forgot to copy the command, you can execute below command on master node to generate the join command again
 
 ```
-kubeadm token create --print-join-command
+sudo kubeadm token create --print-join-command
 ```
 
 ## Validation
