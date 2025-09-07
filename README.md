@@ -1,4 +1,4 @@
-# Certified Kubernetes Administrator(CKA) 2024 
+# Certified Kubernetes Administrator(CKA) 20245
 
 This is the GitHub repository to host all the notes, diagrams, assignments, and resources from the CKA course published on YouTube.
 
@@ -15,6 +15,31 @@ Note: If you found the content helpful, consider giving the repository a star �
 <a href="https://twitter.com/thecloudopscomm"><img src="https://i.postimg.cc/pVqVTNJd/X-logo.png" height="60px"></img></a>
 <a href="https://www.linkedin.com/company/thecloudopscomm/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" height="60px"></img></a>
 <a href="https://www.instagram.com/techtutorialswithpiyush/"><img src="https://user-images.githubusercontent.com/91791257/235086447-47658b7b-71fa-4baf-830a-3ba9b3a76a47.png" height="60px"></img></a>
+
+## 🏆 #40daysofkubernetes Challenge - COMPLETED! 
+
+**The #40daysofkubernetes challenge has been successfully completed!** 🎉
+
+Congratulations to all the amazing participants who dedicated their time and effort to learn Kubernetes throughout this journey.
+
+### 🥇 Challenge Winners
+
+#### 🖊️ **Blogging Champions**
+1. **Shivam Gautam** 
+2. **Rahul Vadakkiniyil** 
+3. **Shriram Sahu** 
+4. **Teddy D** 
+5. **Pratik Shinde** 
+6. **Baivab Mukhopadhyay** 
+
+#### 👥 **Community Champions**
+1. **Baivab Mukhopadhyay** - Discord: itzmario7320
+2. **Priyanka** 
+3. **Vivek** 
+4. **Dheeman Das** 
+5. **Micheal Choudhary**
+
+A huge thanks to everyone who participated, shared their learning journey, and contributed to building this amazing community! 🙏
 
 ### Day0: Intro to the series
 [![Course Introduction](https://img.youtube.com/vi/6_gMoe7Ik8k/sddefault.jpg)](https://youtu.be/6_gMoe7Ik8k)
@@ -249,6 +274,13 @@ Note: If you found the content helpful, consider giving the repository a star �
 ## Day 42 Video: Realtime project: Host your own container registry on Kubernetes
 - This project will include multiple Kubernetes topics with real-time implementation.
 
+## Day 43 Video: Helm
+
+## Day 44 Video - Kustomize
+
+## Day 45 Video - StatefulSets
+
+## Day 46 Video - Priority class and preemption 
 
 
 
